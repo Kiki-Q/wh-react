@@ -16,3 +16,9 @@ Prettier-Code formatter：prettier 的格式化插件。
 Eslint：eslint 的插件。
 Stylelint：样式文件格式化插件。
 JavaScript and TypeScript Nightly：起用 ts 最新语法
+
+# 添加路由模块 & suspense
+
+路由 v6
+路由文件夹
+动态加载组件 suspense

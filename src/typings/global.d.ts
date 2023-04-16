@@ -1,3 +1,3 @@
 declare global {
-    declare type pageview = 'pageview'
+  declare type pageview = "pageview";
 }
